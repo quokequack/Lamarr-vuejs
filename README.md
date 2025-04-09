@@ -17,6 +17,9 @@
 <h2>📄 Documentação </h2>
 <p> Documentos como requisitos, modelagens de casos de uso, personas, JTBD, user stories e use cases podem ser encontrados na pasta docs, na raíz do projeto.</p>
 <hr>
+<h2> 🗺️ Journey Map </h2>
+<img src="./public/imgs/mapa.jpg" alt="JOURNEY MAP">
+<hr>
 <h2>💻 Tecnologias</h2>
 <p> Produzido com Vue.js, Vuetify e Typescript</p>
 <p> Ele também utilizará <a href="https://openai.com/api/"> a API do ChatGPT</a> para gerar os roadmaps.</a> </p>
