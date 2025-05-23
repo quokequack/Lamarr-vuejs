@@ -29,6 +29,10 @@
   </a>
 </p>
 <hr>
+<h2> 🖼️ Design </h2>
+<p> Feito no figma! Ainda em desenvolvimento... </p>
+<img src="./public/imgs/homepage.png" alt="Wireframe">
+<hr>
 💡 <i>Esse projeto foi inicialmente feito para a Imersão Dev Alura + Google Gemini em 2024. Decidi criar esse projeto em Vue.js para melhora-lo e disponibilizá-lo para o mundo.</i>
 <hr>
 <p> O Lamarr foi feito com muito sofrimento em um dia e meio de programação, por favor, respeitem os direitos autorais! ❤️</p>
