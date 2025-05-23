@@ -31,13 +31,7 @@
 <hr>
 <h2> 🖼️ Design </h2>
 <p> Feito no figma! Ainda em desenvolvimento... </p>
-<h3> Paleta de cores </h3>
-<img src="./public/imgs/paleta.png" alt="Wireframe">
-<h3> Fontes </h3>
-<img src="./public/imgs/tipografia.png" alt="Wireframe">
-<h3> Wireframe Desktop e Mobile da Landing Page </h3>
-<img src="./public/imgs/homepage.png" alt="Wireframe">
-<img src="./public/imgs/homepage-mobile" alt="Wireframe mobile">
+<p> Wireframes Desktop, Mobile, Paleta de cores e Tipografia podem ser consultados em public/imgs.</p>
 <hr>
 💡 <i>Esse projeto foi inicialmente feito para a Imersão Dev Alura + Google Gemini em 2024. Decidi criar esse projeto em Vue.js para melhora-lo e disponibilizá-lo para o mundo.</i>
 <hr>
