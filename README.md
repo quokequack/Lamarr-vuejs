@@ -25,7 +25,7 @@
 <p> Ele também utilizará <a href="https://openai.com/api/"> a API do ChatGPT</a> para gerar os roadmaps.</a> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,vuetify,firebase,pinia,vite" />
+    <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,vuetify,mongodb,pinia,vite" />
   </a>
 </p>
 <hr>
