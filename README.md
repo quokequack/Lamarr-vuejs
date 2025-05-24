@@ -32,6 +32,7 @@
 <h2> 🖼️ Design </h2>
 <p> Feito no figma! Ainda em desenvolvimento... </p>
 <p> Wireframes Desktop, Mobile, Paleta de cores e Tipografia podem ser consultados em public/imgs.</p>
+<img src="./public/imgs/visual-id.png" alt="Visual Identity">
 <hr>
 💡 <i>Esse projeto foi inicialmente feito para a Imersão Dev Alura + Google Gemini em 2024. Decidi criar esse projeto em Vue.js para melhora-lo e disponibilizá-lo para o mundo.</i>
 <hr>
