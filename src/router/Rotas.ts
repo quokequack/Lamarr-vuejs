@@ -1,6 +1,6 @@
-
 const Rotas = {
     path: "/",
+    component: () => import('../components/Layout.vue'),
     children: [
         {
             path: "",
