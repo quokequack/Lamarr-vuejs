@@ -34,6 +34,9 @@
 </template>
 
 <style scoped>
+* {
+  box-sizing: border-box;
+}
 .porque-usar{
   height: auto;
   width: 100%;
@@ -64,27 +67,29 @@ p{
 
 }
 
-.texto{
-  width: 30%;
-  font-size:1.1em;
-  justify-content:center;
-  align-items: center;
-  font-weight: bolder;
-  color: #323232;
+.texto {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 span{
   color: #898481;
   font-size:1.3em;
-  width: 30%;
+  width:auto;
   text-align: center;
+}
+
+.v-row {
+  margin:0;
 }
 
 @media (max-width: 768px) {
   .texto {
-    width: 80%;
-    margin-top:10%;
-    margin-bottom:10%;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 10%;
   }
   .texto h1 {
     font-size: 1.3em;
