@@ -58,6 +58,7 @@ p{
   font-size: 2em;
   font-weight: bolder;
   color: #898481;
+  margin-top:1%;
 }
 
 .motivos {
@@ -74,10 +75,14 @@ p{
   text-align: center;
 }
 
+.texto h1{
+  font-weight: bolder;
+}
+
 span{
   color: #898481;
   font-size:1.3em;
-  width:auto;
+  width: 30%;
   text-align: center;
 }
 
@@ -92,8 +97,9 @@ span{
     margin-bottom: 10%;
   }
   .texto h1 {
-    font-size: 1.3em;
+    font-size: 2.3em;
     text-align: center;
+
   }
 
   span {
