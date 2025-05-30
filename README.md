@@ -2,7 +2,6 @@
   <img src="./public/imgs/hedy.png"/>
 </div>
 <h2 align="center">Lamarr - Trilha de aprendizado em menos de 5 minutos </h1>
-<p align="center">🛠️ Readme em construção... </p>
 <i>
 <p> 📚 O Lamarr foi idealizado principalmente para aqueles que têm vontade de aprender e pouco tempo para pensar em uma forma organizada de fazê-lo. Ao gerar uma trilha de conhecimento e uma rotina de estudos personalizados para você, respeitando seu tempo e melhores estilos de aprendizado, o Lamarr agiliza o processo de pesquisa por material e conteúdo para que você só se preocupe em estudar.
 </p>
