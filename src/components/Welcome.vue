@@ -33,4 +33,13 @@ h1{
   font-size: 4em;
   margin-left:5%;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 3em;
+    width: 100%;
+    text-align: center;
+    margin:0;
+  }
+}
 </style>
