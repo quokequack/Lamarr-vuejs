@@ -7,7 +7,8 @@
 <p> 📚 O Lamarr foi idealizado principalmente para aqueles que têm vontade de aprender e pouco tempo para pensar em uma forma organizada de fazê-lo. Ao gerar uma trilha de conhecimento e uma rotina de estudos personalizados para você, respeitando seu tempo e melhores estilos de aprendizado, o Lamarr agiliza o processo de pesquisa por material e conteúdo para que você só se preocupe em estudar.
 </p>
 
-
+<p> 📚 Antes de tudo, você deverá responder dois questionários. O primeiro para entendermos o que você pretende estudar, como, por quantas horas e etc. O segundo pretende analisar a forma de estudo que mais tem a ver com você pra te proporcionar a melhor experiência.
+</p>
 </i>
 <hr>
 <h3>Apresentação breve</h2>
