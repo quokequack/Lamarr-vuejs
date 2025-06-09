@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,vuetify,mongodb,express,pinia,vite" />
   </a>
 </p>
-.................
+..............
 <hr>
 <h2> 🖼️ Design </h2>
 <p> Feito no figma! Ainda em desenvolvimento... </p>
